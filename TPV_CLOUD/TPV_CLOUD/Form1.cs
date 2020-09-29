@@ -19,7 +19,7 @@ namespace TPV_CLOUD
 
         private void btnOk_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Heldlo World");
+            MessageBox.Show("Heldlod World");
         }
     }
 }
