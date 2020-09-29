@@ -1,0 +1,10 @@
+D:\TFSPTV\TPV_CLOUD\TPV_CLOUD\bin\Debug\TPV_CLOUD.exe.config
+D:\TFSPTV\TPV_CLOUD\TPV_CLOUD\bin\Debug\TPV_CLOUD.exe
+D:\TFSPTV\TPV_CLOUD\TPV_CLOUD\bin\Debug\TPV_CLOUD.pdb
+D:\TFSPTV\TPV_CLOUD\TPV_CLOUD\obj\Debug\TPV_CLOUD.csprojAssemblyReference.cache
+D:\TFSPTV\TPV_CLOUD\TPV_CLOUD\obj\Debug\TPV_CLOUD.Form1.resources
+D:\TFSPTV\TPV_CLOUD\TPV_CLOUD\obj\Debug\TPV_CLOUD.Properties.Resources.resources
+D:\TFSPTV\TPV_CLOUD\TPV_CLOUD\obj\Debug\TPV_CLOUD.csproj.GenerateResource.cache
+D:\TFSPTV\TPV_CLOUD\TPV_CLOUD\obj\Debug\TPV_CLOUD.csproj.CoreCompileInputs.cache
+D:\TFSPTV\TPV_CLOUD\TPV_CLOUD\obj\Debug\TPV_CLOUD.exe
+D:\TFSPTV\TPV_CLOUD\TPV_CLOUD\obj\Debug\TPV_CLOUD.pdb

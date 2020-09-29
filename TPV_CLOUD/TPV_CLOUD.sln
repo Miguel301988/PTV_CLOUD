@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPV_CLOUD", "TPV_CLOUD\TPV_CLOUD.csproj", "{8D36F683-145F-496F-A87B-8971E3EBD4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D36F683-145F-496F-A87B-8971E3EBD4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D36F683-145F-496F-A87B-8971E3EBD4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D36F683-145F-496F-A87B-8971E3EBD4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D36F683-145F-496F-A87B-8971E3EBD4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C40294D-291C-4C0C-BC03-2D0A0F2E4329}
+	EndGlobalSection
+EndGlobal
