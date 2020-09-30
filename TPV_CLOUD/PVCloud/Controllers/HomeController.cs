@@ -10,7 +10,7 @@ namespace PVCloud.Controllers
     {
         public ActionResult Index()
         {
-            return RedirectToAction("Index", "Index");
+            return RedirectToAction("Index", "Index"); 
         }
 
         public ActionResult About()
